@@ -1,0 +1,4 @@
+HotelApp.Droid.MainActivity, HotelApp.Droid;md54df9c4ebad547b79c42021f2c6a7f6d1.MainActivity
+HotelApp.Droid.MainActivity, HotelApp.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54df9c4ebad547b79c42021f2c6a7f6d1.MainActivity
+HotelApp.Droid.MainActivity;md54df9c4ebad547b79c42021f2c6a7f6d1.MainActivity
+hotelapp.droid.MainActivity;md54df9c4ebad547b79c42021f2c6a7f6d1.MainActivity

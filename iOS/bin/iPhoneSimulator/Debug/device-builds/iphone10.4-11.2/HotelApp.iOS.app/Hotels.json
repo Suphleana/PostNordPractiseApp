@@ -1,0 +1,26 @@
+﻿{
+  "Hotel One":  {
+    "Location":  "Stockholm",
+    "Price":  "$$$",
+  }
+  "Hotel Two":  {
+    "Location":  "Malmö",
+    "Price":  "$$",
+  }
+  "Hotel Three":  {
+    "Location":  "Västerås",
+    "Price":  "$",
+  }
+  "Hotel Four":  {
+    "Location":  "Sundsvall",
+    "Price":  "$",
+  }
+  "Hotel Five":  {
+    "Location":  "Helsingborg",
+    "Price":  "$$",
+  }
+  "Hotel Six":  {
+    "Location":  "Göteborg",
+    "Price":  "$$$",
+  }
+}

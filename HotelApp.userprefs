@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{F077DEE4-8180-4CF2-BB8C-28FDC4A5360E}|Default">
+  <MonoDevelop.Ide.ItemProperties.HotelApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.1BD26821-51D2-4676-904F-26E54A43CB84" automaticSigning="False">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.HotelApp.iOS>
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/Main.storyboard">
+    <Files>
+      <File FileName="iOS/Main.cs" Line="1" Column="1" />
+      <File FileName="iOS/HotelListControllerNew.cs" Line="37" Column="17" />
+      <File FileName="iOS/TableSource.cs" Line="31" Column="71" />
+      <File FileName="iOS/ViewController.cs" Line="17" Column="9" />
+      <File FileName="iOS/HotelController.cs" Line="13" Column="10" />
+      <File FileName="iOS/Main.storyboard" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

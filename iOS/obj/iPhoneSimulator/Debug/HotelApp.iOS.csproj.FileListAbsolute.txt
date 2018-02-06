@@ -1,0 +1,10 @@
+/Users/TMS/Projects/HotelApp/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/TMS/Projects/HotelApp/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/_PartialAppManifest.items
+/Users/TMS/Projects/HotelApp/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/_BundleResourceWithLogicalName.items
+/Users/TMS/Projects/HotelApp/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/
+/Users/TMS/Projects/HotelApp/iOS/obj/iPhoneSimulator/Debug/HotelApp.iOS.csprojResolveAssemblyReference.cache
+/Users/TMS/Projects/HotelApp/iOS/obj/iPhoneSimulator/Debug/HotelApp.iOS.csproj.CoreCompileInputs.cache
+/Users/TMS/Projects/HotelApp/iOS/bin/iPhoneSimulator/Debug/HotelApp.iOS.exe
+/Users/TMS/Projects/HotelApp/iOS/bin/iPhoneSimulator/Debug/HotelApp.iOS.pdb
+/Users/TMS/Projects/HotelApp/iOS/obj/iPhoneSimulator/Debug/HotelApp.iOS.exe
+/Users/TMS/Projects/HotelApp/iOS/obj/iPhoneSimulator/Debug/HotelApp.iOS.pdb
